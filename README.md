@@ -19,7 +19,7 @@ Face detection using Haar cascades is a machine learning based approach where a 
 - You may have to tweak these values to get the best results.
 - Faces contains a list of coordinates for the rectangular regions where faces were found. We use these coordinates to draw the rectangles over the detected face.
 
-## Library used:
+## Libraries used:
 - <a href="https://opencv.org/">OpenCV</a>
 - <a href="https://docs.python.org/3/library/winsound.html">winsound</a>
 
