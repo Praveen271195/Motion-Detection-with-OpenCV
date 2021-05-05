@@ -4,7 +4,7 @@
 This repository was created to contain the motion detection and alarm system built with Python using OpenCV library for experential learnning pupose. 
 
 ## Future goal:
-This project will later be developed in required format to implement in my dad's office and godown for security purpose.
+This project will later be developed in required format to program a Raspberry Pi to implement in my dad's office and godown for security purpose.
 
 ## Synopsis:
 Motion detetion is one of the best applications of OpenCV and this is has been used to build acan be 
