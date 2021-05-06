@@ -1,4 +1,4 @@
-<h1 align="center">Security Camera with OpenCV 🔐 </h1>
+<h1 align="center">Motion Detection with OpenCV 🔐 </h1>
 
 ## Motivation:
 This repository was created to contain the motion detection and alarm system built with Python using OpenCV library for experential learnning pupose. 
